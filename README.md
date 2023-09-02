@@ -1,8 +1,8 @@
 # My Typewriter Effect Package
 
-[![PyPI Version](https://img.shields.io/pypi/v/my-typewriter-package.svg)](https://pypi.org/project/my-typewriter-package/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/my-typewriter-package.svg)](https://pypi.org/project/typewriter/)
-[![License](https://img.shields.io/pypi/l/my-typewriter-package.svg)](https://github.com/AnozieChibuike/typewriter/blob/master/LICENSE)
+[![PyPI Version](https://img.shields.io/pypi/v/unratedwriting.svg)](https://pypi.org/project/unratedwriting/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/unratedwriting.svg)](https://pypi.org/project/unratedwriting/)
+[![License](https://img.shields.io/pypi/l/unratedwriting.svg)](https://github.com/AnozieChibuike/typewriter/blob/master/LICENSE)
 
 A Python package that creates a typewriter effect for text output.
 
@@ -54,4 +54,4 @@ Contact
 
 -   Anozie Joel
 -   Email: chibuikeanozie0@gmail.com
--   GitHub: <https://github.com/AnozieChibuike>
+-   GitHub: [Anozie Chibuike](https://github.com/AnozieChibuike)

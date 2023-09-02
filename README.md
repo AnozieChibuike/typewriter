@@ -11,14 +11,14 @@ A Python package that creates a typewriter effect for text output.
 You can install this package using `pip`:
 
 ```bash
-pip install typewriter `
+pip install unratedwriting `
 
 Usage
 -----
 
 python
 
-`from typewriter.typewriter import typewrite
+`from unratedwriting.typewriter import typewrite
 
 text_to_type = "Hello, this is a typewriter effect!"
 typewrite(text_to_type)`

@@ -14,4 +14,3 @@ def typewrite(text, delay=0.05):
         print(f"Error: {e}")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-

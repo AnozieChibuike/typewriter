@@ -1,4 +1,4 @@
-`# My Typewriter Effect Package
+# My Typewriter Effect Package
 
 [![PyPI Version](https://img.shields.io/pypi/v/my-typewriter-package.svg)](https://pypi.org/project/my-typewriter-package/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/my-typewriter-package.svg)](https://pypi.org/project/typewriter/)
@@ -42,7 +42,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 License
 -------
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
 
 Acknowledgments
 ---------------

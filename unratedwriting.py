@@ -8,7 +8,8 @@ def typewrite(text, delay=0.05):
         for char in text:
             print(char, end='', flush=True)
             time.sleep(delay)
-        print()  # Print a newline character at the end
+        print()
+        time.sleep(0.4)  # Print a newline character at the end
 
     except TypeError as e:
         print(f"Error: {e}")

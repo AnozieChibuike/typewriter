@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "unratedwriting"
-version = "1.0.4"
+version = "1.1.0"
 description = "A Python package that adds a typewriter effect to text output. It allows you to display text in a way that mimics the classic typewriter-style printing, with characters appearing one by one at a defined speed. This package is suitable for enhancing the visual appeal of command-line applications, creating interactive fiction games, or simply adding a fun twist to your Python projects. Easy to use and highly customizable, it provides an engaging way to present text-based information."
 authors = ["Anozie Chibuike <chibuikeanozie0@gmail.com>"]
 license = "MIT"

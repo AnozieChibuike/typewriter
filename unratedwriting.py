@@ -1,9 +1,17 @@
 import time
 
 def typewrite(text, delay=0.05):
+    """
+    This prints like a typewriter
+    >>> typewrite(090)
+    090
+    """
     try:
         if not isinstance(text, str):
-            raise TypeError("Input must be a string")
+            try:
+               text = str(text)
+            except:
+                raise TypeError("Input must be convertible to string")
         
         for char in text:
             print(char, end='', flush=True)
